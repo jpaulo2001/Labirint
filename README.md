@@ -1,0 +1,2 @@
+# Labirint
+Labirints (Python Project)
